@@ -897,7 +897,6 @@ $$
 </section>
 
 最后，让我们看看旋转是如何存储的。首先，让我们重置位置和缩放：
-Finally, let's see how rotation is stored. First, let's reset the position and scale:
 
 {{< code lang="js" linenos="false" hl_lines="" caption="重置位置和缩放" >}}
 ``` js
